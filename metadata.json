@@ -1,0 +1,6 @@
+{
+  "name": "SkyVoyage — Premium Travel & Tourism Platform",
+  "description": "Explore extraordinary destinations, book curated holiday packages, reserve luxury hotels, obtain visa assistance, discover local dining, and plan custom itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
